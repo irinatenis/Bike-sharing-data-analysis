@@ -44,7 +44,7 @@ combined_data<-rbind(october,november,december,january,february,march,april,may,
 ------------------------------------------------------------------------------------
 ### STEP 3: CLEANING UP AND PREPARING DATA FOR ANALYSIS
 ------------------------------------------------------------------------------------
-## Inspecting the new table that has been created
+#### Inspecting the new table that has been created
 head(combined_data)
 str(combined_data)
 summary(combined_data)
